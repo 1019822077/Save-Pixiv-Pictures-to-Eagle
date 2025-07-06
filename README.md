@@ -47,7 +47,8 @@
 
 如需帮助或有任何建议，欢迎通过以下方式联系我：
 
-微信：[扫码添加](https://www.biyeku.com/images/wx.jpg)
+微信：
+![扫码添加](https://img-biyeku-com-1312480137.cos.ap-nanjing.myqcloud.com/jd/wx.jpg)
 
 ## 更新日志
 
