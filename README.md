@@ -48,7 +48,7 @@
 欢迎通过以下方式联系我：
 
 微信号：star1019822077
-![扫码添加](https://img-biyeku-com-1312480137.cos.ap-nanjing.myqcloud.com/jd/wx.jpg)
+![扫码添加](https://img-biyeku-com-1312480137.cos.ap-nanjing.myqcloud.com/xianyu/wx.jpg)
 
 ## 更新日志
 
