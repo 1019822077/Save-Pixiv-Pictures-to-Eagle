@@ -1,0 +1,2 @@
+# Save-Pixiv-Pictures-to-Eagle
+这是一个可以将Pixiv图片一键保存到Eagle软件的油猴脚本优化版。原版脚本已无法使用，我花了一天时间完成了全面优化，使其重新兼容最新版本的Pixiv网站和Eagle软件。
